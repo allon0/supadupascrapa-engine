@@ -1,0 +1,50 @@
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtualenv
+.env/
+.venv/
+env/
+venv/
+
+# Environment variables
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Lambda packages
+*.zip
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Logs and cache
+*.log
+*.sqlite3
+.cache/
+*.db
+
+# Docker
+*.pid
+*.tar
+*.img
+
+# CDK
+cdk.out/
+
+# Python tool files
+pip-wheel-metadata/
+*.egg-info/
+.eggs/
+
+# Jupyter / notebooks
+.ipynb_checkpoints/
+
+# Pytest cache
+.pytest_cache/
